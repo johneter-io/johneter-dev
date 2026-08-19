@@ -1,30 +1,28 @@
-# Johneter Joe
+# Johneter Joe — Portfolio
 
-Portfolio personnel de Johneter Joe | développeur logiciel en formation.
+Portfolio personnel de Johneter Joe, développeur logiciel en formation.
 
-Ce site web présente une sélection de projets, mes compétences techniques, mes travaux de développement et mes services web, tout en retraçant mon parcours en tant que développeur logiciel.
-
-## Pile technologique
-
-- HTML5
-- CSS3
-- JavaScript pur
-- Conception web adaptative
-- Git et GitHub
+Ce site présente mes projets, mes compétences actuelles, mon approche du développement logiciel et les services web que je peux proposer.
 
 ## Structure du projet
 
-johneter-joe/
+```text
+johneter-portfolio/
+│
 ├── index.html
+│
 ├── styles/
-│ ├── style.css
-│ └── ...
+│   └── style.css
+│
 ├── scripts/
-│ ├── main.js
-│ └── ...
+│   └── main.js
+│
 ├── assets/
-│ ├── images/
-│ ├── projects/
-│ └── og-image.jpg
+│   ├── images/
+│   ├── projects/
+│   └── og-image.jpg
+│
 ├── favicon.ico
+│
 └── README.md
+```
